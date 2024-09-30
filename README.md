@@ -1,4 +1,4 @@
-# Airguard
+# AirGuard
 
 ## 🏆 Título do Projeto: 
 
@@ -6,7 +6,7 @@ Implementação de um Sistema de Monitoramento de Qualidade do Ar na Fábrica
 
 ## 🎯 Objetivo:
 
-Implementar um sistema de monitoramento de qualidade do ar na fábrica da empresa JKL,
+Implementar um sistema de monitoramento de qualidade do ar na fábrica da empresa AirGuard,
 com a capacidade de detectar poluentes e emitir alertas em tempo real, assegurando a segurança e saúde dos funcionários
 
 ## 📋 Backlog:
